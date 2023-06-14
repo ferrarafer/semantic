@@ -1,3 +1,10 @@
+# [1.2.0-pre.4](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.3...v1.2.0-pre.4) (2023-06-14)
+
+
+### Bug Fixes
+
+* Fix fake error ([e9f4b5f](https://github.com/ferrarafer/semantic/commit/e9f4b5f3617b41bcda9746e300dc7873326703f8))
+
 # [1.2.0-pre.3](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.2...v1.2.0-pre.3) (2023-06-14)
 
 
