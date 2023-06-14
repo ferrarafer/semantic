@@ -1,3 +1,11 @@
+# [1.2.0-pre.3](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.2...v1.2.0-pre.3) (2023-06-14)
+
+
+### Features
+
+* Add feature 7 [skip ci] ([06fa26d](https://github.com/ferrarafer/semantic/commit/06fa26dd0a351292042996c4643658d2f49c6a10))
+* Add feature 8 [skip release] ([05e9f0b](https://github.com/ferrarafer/semantic/commit/05e9f0b143616e295f4a373567ada2a4fef81df2))
+
 # [1.2.0-pre.2](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.1...v1.2.0-pre.2) (2023-06-14)
 
 
