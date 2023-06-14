@@ -1,3 +1,20 @@
+# [1.2.0](https://github.com/ferrarafer/semantic/compare/v1.1.0...v1.2.0) (2023-06-14)
+
+
+### Bug Fixes
+
+* Fix fake error ([e342b5a](https://github.com/ferrarafer/semantic/commit/e342b5ad5c629b91b5f12ca94014520aae53daf5))
+* update readme ([a92068d](https://github.com/ferrarafer/semantic/commit/a92068d46c136c0c5105521f525c08e04e6e126f))
+
+
+### Features
+
+* Add feature 4 ([d4f15bf](https://github.com/ferrarafer/semantic/commit/d4f15bfb2fca2495b736786fcf7676cb054d5055))
+* Add feature 5 ([04e1e17](https://github.com/ferrarafer/semantic/commit/04e1e17c27894503f05b014e0fe51a57d221da5f))
+* Add feature 6 ([1a8404c](https://github.com/ferrarafer/semantic/commit/1a8404cc7b86de8b45f29758eddd203669391ab9))
+* Add feature 7 [skip ci] ([a912972](https://github.com/ferrarafer/semantic/commit/a9129727a218982ac2a852c2d8370c1b49b6e13d))
+* Add feature 8 [skip release] ([5e342d6](https://github.com/ferrarafer/semantic/commit/5e342d6db5657f95904aa87fdc2a1b6449f9fb8c))
+
 # [1.2.0-pre.4](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.3...v1.2.0-pre.4) (2023-06-14)
 
 
