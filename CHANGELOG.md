@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/ferrarafer/semantic/compare/v1.0.0...v1.1.0) (2023-06-14)
+
+
+### Bug Fixes
+
+* Fix indentation ([673d029](https://github.com/ferrarafer/semantic/commit/673d029dcb3168e15b0368785348398415193f66))
+
+
+### Features
+
+* Add feature 3 ([21f538a](https://github.com/ferrarafer/semantic/commit/21f538ad6bf86268b27a401e999f925e73477ce1))
+
 # 1.0.0 (2023-06-14)
 
 
