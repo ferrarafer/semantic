@@ -21,4 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 4 (beta)
 5 (beta)
 6
-7 (skip)
+7 (skip ci)
+8 (skip release)
