@@ -1,3 +1,10 @@
+# [1.2.0-pre.2](https://github.com/ferrarafer/semantic/compare/v1.2.0-pre.1...v1.2.0-pre.2) (2023-06-14)
+
+
+### Features
+
+* Add feature 6 ([de7bb8d](https://github.com/ferrarafer/semantic/commit/de7bb8dc0514723cada8078e203c7ed0c163b786))
+
 # [1.2.0-pre.1](https://github.com/ferrarafer/semantic/compare/v1.1.0...v1.2.0-pre.1) (2023-06-14)
 
 
