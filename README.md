@@ -20,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 3
 4 (beta)
 5 (beta)
+6
