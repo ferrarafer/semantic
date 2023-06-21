@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/ferrarafer/semantic/compare/v1.2.0...v1.3.0) (2023-06-21)
+
+
+### Bug Fixes
+
+* update readme file with fake test ([123ffa7](https://github.com/ferrarafer/semantic/commit/123ffa7eb92a48b08dfc3fb616fdaab2f63ffdf9))
+
+
+### Features
+
+* add test1 feature ([61bd359](https://github.com/ferrarafer/semantic/commit/61bd359b690f9101275f904660b89d6aee9f3f60))
+
 # [1.2.0](https://github.com/ferrarafer/semantic/compare/v1.1.0...v1.2.0) (2023-06-14)
 
 
